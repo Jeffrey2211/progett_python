@@ -1,6 +1,6 @@
 <!-- # progett_python -->
 ## Progetti
-### Progetti di python che mostrano la conoscenza acquisita.
+### Progetti di python che mostrano la conoscenza acquisita:
 
 1. **Pagella Scolastica**<br/>
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19HiSkpnZaje_M6K-DGRaulw7QZ9LoKop?usp=sharing)
