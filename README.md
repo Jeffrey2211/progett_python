@@ -16,7 +16,7 @@
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1AqYfH2hozSH_-5Sf6hqKP9DgTjWof51_/view?usp=sharing)
    
 ### 4. Modello computer vision
-   [![Open In Colab](https://github.com/Jeffrey2211/progett_python/blob/main/Giorno%204.ipynb)
+   [![Open In Colab](https://drive.google.com/file/d/1AqYfH2hozSH_-5Sf6hqKP9DgTjWof51_/view?usp=sharing)
 
 ### 5. Creazione di un assistente virtuale
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1AqYfH2hozSH_-5Sf6hqKP9DgTjWof51_/view?usp=sharing)
