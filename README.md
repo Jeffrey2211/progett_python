@@ -12,8 +12,8 @@
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vHL4H8sjVG7Qp6zcqXkYzgY6ypSGsumo?usp=sharing)
    [![Download](https://img.shields.io/badge/Download-File-blue.svg)](Validazione_email.py)
 
-### 3. Modello computer vision
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1AqYfH2hozSH_-5Sf6hqKP9DgTjWof51_/view?usp=sharing)
+### 3. Metodi di machine learning
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_yRPwrKrxB7Ox8XI-5l6RrG2zQsddjD_?usp=sharing)
    
 ### 4. Modello computer vision
    [![Open In Colab](https://drive.google.com/file/d/1AqYfH2hozSH_-5Sf6hqKP9DgTjWof51_/view?usp=sharing)
