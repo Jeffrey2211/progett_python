@@ -36,7 +36,7 @@
 ### 3. Metodi di machine learning
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_yRPwrKrxB7Ox8XI-5l6RrG2zQsddjD_?usp=sharing)
 ### 4. Deep learning e Reti neurali per la classificazione di immagini
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MWJQ4lPnx03NHlPbKcG1ty1eAt6ABCHC?usp=sharing)
+   [![Open In Colab](https://drive.google.com/file/d/1vqFFemSkt6SVXp15cJ2HAFc3V4al_TUk/view?usp=sharing)
 
 ### 5. Generative AI per la generazione di testo
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Inserisci link)
