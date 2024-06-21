@@ -11,9 +11,16 @@
 ### 2. Validazione Email
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vHL4H8sjVG7Qp6zcqXkYzgY6ypSGsumo?usp=sharing)
    [![Download](https://img.shields.io/badge/Download-File-blue.svg)](Validazione_email.py)
+
+### 3. Modello computer vision
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1AqYfH2hozSH_-5Sf6hqKP9DgTjWof51_/view?usp=sharing)
+   
 ### 4. Modello computer vision
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1AqYfH2hozSH_-5Sf6hqKP9DgTjWof51_/view?usp=sharing)
-   [![Download](https://img.shields.io/badge/Download-File-blue.svg)]()
+
+### 5. Creazione di un assistente virtuale
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1AqYfH2hozSH_-5Sf6hqKP9DgTjWof51_/view?usp=sharing)
+   
 
 
 ---
