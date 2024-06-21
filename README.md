@@ -16,7 +16,7 @@
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_yRPwrKrxB7Ox8XI-5l6RrG2zQsddjD_?usp=sharing)
    
 ### 4. Modello computer vision
-   [![Visualizza e scarica](https://github.com/Jeffrey2211/progett_python/blob/main/Pagella_scolastica.py)
+   [![Visualizza e scarica](https://github.com/Jeffrey2211/progett_python/blob/main/progetto_modello_di_computer_vision.py)
 
 
 ### 5. Creazione di un assistente virtuale
