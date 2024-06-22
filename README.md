@@ -21,7 +21,7 @@
 
 ### 5. Creazione di un assistente virtuale
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gkFUohyNac0E-uO8HdwgS59neCjCvLUy?usp=sharing)
- [![Download](https://img.shields.io/badge/Visualizza-File-blue)](Assistente_virtuale.py)
+ [![Download](https://img.shields.io/badge/Download-File-blue)](Assistente_virtuale.py)
    
 ---
 
