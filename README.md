@@ -13,7 +13,7 @@
    [![Download](https://img.shields.io/badge/Download-File-blue.svg)](Validazione_email.py)
 
 ### 3. Un modello di classificazione binaria
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_yRPwrKrxB7Ox8XI-5l6RrG2zQsddjD_?usp=sharing)
+   [![Open In Colab]([![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18OZXU3h1lGXKbZtHlpcmi300YrSSAeRo?usp=sharing)
    [![Download](https://img.shields.io/badge/Download-File-blue)](Modello_di_classificazione.py)
 
 ### 4. Modello computer vision
