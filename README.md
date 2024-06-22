@@ -14,7 +14,7 @@
 
 ### 3. Un modello di classificazione binaria
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_yRPwrKrxB7Ox8XI-5l6RrG2zQsddjD_?usp=sharing)
-   ![Download](https://img.shields.io/badge/Download-File-blue)](Modello_di_classificazione.py)
+   [![Download](https://img.shields.io/badge/Download-File-blue)](Modello_di_classificazione.py)
 
 ### 4. Modello computer vision
  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PunSiNxZDaRuEiLZSRKk_kuVNnRAQ7kg?usp=sharing)
