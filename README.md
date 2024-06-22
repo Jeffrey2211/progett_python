@@ -16,13 +16,12 @@
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_yRPwrKrxB7Ox8XI-5l6RrG2zQsddjD_?usp=sharing)
 
 ### 4. Modello computer vision
-   [![Download](https://img.shields.io/badge/Visualizza-File-blue)](https://github.com/Jeffrey2211/progett_python/raw/main/progetto_modello_di_computer_vision.py)
+ [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PunSiNxZDaRuEiLZSRKk_kuVNnRAQ7kg?usp=sharing)
+ [![Download](https://img.shields.io/badge/Visualizza-File-blue)](https://github.com/Jeffrey2211/progett_python/raw/main/progetto_modello_di_computer_vision.py)
 
 ### 5. Creazione di un assistente virtuale
    [![Open In Colab](https://colab.research.google.com/drive/1gkFUohyNac0E-uO8HdwgS59neCjCvLUy?usp=sharing)
    
-
-
 ---
 
 ## Argomenti del corso
