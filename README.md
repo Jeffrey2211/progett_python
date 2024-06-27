@@ -3,6 +3,7 @@
 # Progetti Python
 
 ## Progetti di Python e machine learning di ProfessionAi con i relativi argomenti:
+### Progetti realizzati seguendo il corso Artificial Week di ProfessionAi con la realizzazione di progeti per ogni giornata.
 
 ### Argomento giorno 1: Fondamenti di Python
 #### 1. Pagella Scolastica
