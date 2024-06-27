@@ -24,7 +24,7 @@
  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PunSiNxZDaRuEiLZSRKk_kuVNnRAQ7kg?usp=sharing)
  [![Download](https://img.shields.io/badge/Download-File-blue)](Modello_di_computer_vision.py)
 
-### Argomento giorno 5; Generative AI per la generazione di testo
+### Argomento giorno 5: Generative AI per la generazione di testo
 #### 5. Creazione di un assistente virtuale
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gkFUohyNac0E-uO8HdwgS59neCjCvLUy?usp=sharing)
  [![Download](https://img.shields.io/badge/Download-File-blue)](Assistente_virtuale.py)
