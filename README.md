@@ -24,7 +24,8 @@
    - Modifica, verifica, copia e riferimento
    - Casting tra collezioni
    - Esercitazioni:
-   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y5P1XfQ4it6g8K7K2S73KXDbtrpR3vjk?usp=sharing)
+   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UokOtBKNQ0GWnoF9LBnDnGYC7vNNRUUS?usp=drive_link)
+
 
 
 4. **istruzioni condizionali**
