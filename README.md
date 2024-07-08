@@ -2,6 +2,8 @@
 
 # Progetti Python
 
+# Artificial Week AI
+
 ## Progetti di Python e machine learning di ProfessionAi con i relativi argomenti:
 ### Progetti realizzati seguendo il corso Artificial Week della durata di 5 giorni di ProfessionAi con la realizzazione di progetti per ogni giornata e il rilascio dell'attestato a fine corso.
 
