@@ -1,6 +1,88 @@
 <!-- # progett_python -->
-
 # Progetti Python
+# Corso Python presso ProfessionAI
+
+## Argomenti del corso
+
+1. **Guida a Jupyter Notebook e Google Colaboratory**
+   - Introduzione a Jupyter Notebook
+   - Utilizzo di Google Colaboratory
+
+2. **Variabili e strutture dati**
+   - Tipi di variabili in Python
+   - Strutture dati: liste, tuple, dizionari, insiemi
+   - Esercitazioni:
+     - [Esercitazione 1](link_alla_esercitazione_1)
+     - [Esercitazione 2](link_alla_esercitazione_2)
+
+3. **Collezione di dati e istruzioni condizionali**
+   - Collezione di dati
+   - Istruzioni condizionali (if, elif, else)
+   - Esercitazioni:
+     - [Esercitazione 1](link_alla_esercitazione_1)
+     - [Esercitazione 2](link_alla_esercitazione_2)
+
+4. **Cicli while, for e uso di break e continue**
+   - Cicli while e for
+   - Utilizzo di break e continue
+   - Esercitazioni:
+     - [Esercitazione 1](link_alla_esercitazione_1)
+     - [Esercitazione 2](link_alla_esercitazione_2)
+
+5. **Programmazione procedurale**
+   - Funzioni e scope
+   - Parametri e ritorno dei valori
+   - Esercitazioni:
+     - [Esercitazione 1](link_alla_esercitazione_1)
+     - [Esercitazione 2](link_alla_esercitazione_2)
+
+6. **Programmazione ad oggetti**
+   - Classi e oggetti
+   - Ereditarietà e polimorfismo
+   - Esercitazioni:
+     - [Esercitazione 1](link_alla_esercitazione_1)
+     - [Esercitazione 2](link_alla_esercitazione_2)
+
+7. **Gestione delle eccezioni**
+   - Try, except, finally
+   - Creazione di eccezioni personalizzate
+   - Esercitazioni:
+     - [Esercitazione 1](link_alla_esercitazione_1)
+     - [Esercitazione 2](link_alla_esercitazione_2)
+
+8. **Operare su file**
+   - Lettura e scrittura di file
+   - Gestione dei file con contesto (with)
+   - Esercitazioni:
+     - [Esercitazione 1](link_alla_esercitazione_1)
+     - [Esercitazione 2](link_alla_esercitazione_2)
+
+9. **Modulazione del codice**
+   - Creazione e importazione di moduli
+   - Gestione dei pacchetti
+   - Esercitazioni:
+     - [Esercitazione 1](link_alla_esercitazione_1)
+     - [Esercitazione 2](link_alla_esercitazione_2)
+
+10. **La standard library di Python**
+    - Panoramica delle librerie standard
+    - Utilizzo di librerie comuni
+    - Esercitazioni:
+      - [Esercitazione 1](link_alla_esercitazione_1)
+      - [Esercitazione 2](link_alla_esercitazione_2)
+
+11. **PyPI e PIP**
+    - Introduzione a PyPI
+    - Utilizzo di PIP per la gestione dei pacchetti
+    - Esercitazioni:
+      - [Esercitazione 1](link_alla_esercitazione_1)
+      - [Esercitazione 2](link_alla_esercitazione_2)
+
+12. **Ambienti virtuali con virtualenv**
+    - Creazione di ambienti virtuali
+    - Gestione delle dipendenze nei progetti
+
+
 
 # Artificial Week AI
 
