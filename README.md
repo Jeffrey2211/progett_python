@@ -13,8 +13,8 @@
    - Tipi di variabili in Python
    - Tipi di dati in Python (integer, float, string, boolean, bitewise)
    - Esercitazioni:
-     - [Esercitazione 1](link_alla_esercitazione_1)
-     - [Esercitazione 2](link_alla_esercitazione_2)
+     - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qDiOsha9DXUOT420CciRIBZrYPjp7LsU?usp=drive_link)
+
 
 3. **Collezione di dati**
    - Collezione di dati (liste, liste annidate, tuple, set, dizionari)
