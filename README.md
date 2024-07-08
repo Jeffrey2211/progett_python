@@ -33,39 +33,39 @@
    - Esercitazioni: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1y5P1XfQ4it6g8K7K2S73KXDbtrpR3vjk?usp=sharing)
 
      - 
-6. **Cicli while, for e uso di break e continue**
+5. **Cicli while, for e uso di break e continue**
    - Cicli while e for
    - Utilizzo di break e continue
    - Esercitazioni: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Odft5-ylC48AZ1QHtStwGKa-0y5Q7HiP?usp=drive_link)
 
 
-7. **Programmazione procedurale**
+6. **Programmazione procedurale**
    - Funzioni e positional key arguments
    - Parametri e ritorno dei valori
    - Esercitazioni: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dKm52bDnvaPbOe-Yiv_qlTI0KqmK0B5M?usp=drive_link)
 
 
-8. **Programmazione ad oggetti**
+7. **Programmazione ad oggetti**
    - Classi e oggetti
    - Ereditarietà e polimorfismo
    - Docstring e Metodi speciali
    - Esercitazioni: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dqqjuc8iUesKdmaZlYjuwRW1bgo5nqVO?usp=drive_link)
 
 
-9. **Gestione delle eccezioni**
+8. **Gestione delle eccezioni**
    - Try, except, finally
    - Assert e Raise
    - Esercitazioni: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YVWZ78sfFbr3U3Pd8HAJ5sC1K8VEzDxT?usp=drive_link)
 
-10. **Operare su file**
-   - Lettura e scrittura di file
-   - Gestione dei file con contesto (with)
-   - Esercitazioni: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Gv4F0D0rc6HcQV98UdXWPRQnZJ8v2j7r?usp=drive_link)
+9. **Operare su file**
+    - Lettura e scrittura di file
+    - Gestione dei file con contesto (with)
+    - Esercitazioni: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Gv4F0D0rc6HcQV98UdXWPRQnZJ8v2j7r?usp=drive_link)
 
 
-11. **Modulazione del codice**
-   - Creazione e importazione di moduli
-   - Creazione e gestione dei packages
+10. **Modulazione del codice**
+    - Creazione e importazione di moduli
+    - Creazione e gestione dei packages
 
 11. **La standard library di Python**
     - Panoramica delle librerie standard
