@@ -82,6 +82,8 @@
     - Creazione di ambienti virtuali
     - Gestione delle dipendenze nei progetti
 
+---
+
 # Artificial Week AI
 
 ## Progetti di Python e machine learning di ProfessionAi con i relativi argomenti:
