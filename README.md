@@ -83,7 +83,10 @@
     - Gestione delle dipendenze nei progetti
 
 ---
+# I miei progetti
+- gestione reti e pacchetti: ![Google Colab](https://img.shields.io/badge/Google%20Colab-Open-brightgreen)
 
+---
 # Artificial Week AI
 
 ## Progetti di Python e machine learning di ProfessionAi con i relativi argomenti:
