@@ -84,7 +84,7 @@
 
 ---
 # I miei progetti
-- gestione reti e pacchetti: ![Google Colab](https://img.shields.io/badge/Google%20Colab-Open-brightgreen)
+- gestione reti e pacchetti: ![Google Colab](https://img.shields.io/badge/Google%20Colab-Click%20Here-blue)
 
 ---
 # Artificial Week AI
