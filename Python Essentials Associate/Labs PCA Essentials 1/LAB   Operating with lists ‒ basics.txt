@@ -1,0 +1,19 @@
+Scenario
+
+Immagina una lista, non molto lunga, non molto complicata, solo una semplice lista contenente 
+alcuni numeri interi. Alcuni di questi numeri potrebbero essere ripetuti, e questo è l'indizio. 
+Non vogliamo ripetizioni. Vogliamo che vengano rimosse.
+
+Il tuo compito è scrivere un programma che rimuova tutte le ripetizioni di numeri dall'elenco. 
+L'obiettivo è avere un elenco in cui tutti i numeri compaiono non più di una volta.
+
+Nota: supponiamo che l'elenco sorgente sia hard-coded all'interno del codice, 
+non devi inserirlo dalla tastiera. Ovviamente, puoi migliorare il codice e 
+aggiungere una parte che può effettuare una conversazione con l'utente e ottenere tutti i dati 
+da lui/lei.
+
+Suggerimento: ti invitiamo a creare un nuovo elenco come area di lavoro temporanea: 
+non è necessario aggiornare l'elenco in loco.
+
+Non abbiamo fornito dati di test, perché sarebbe troppo facile. 
+Puoi usare il nostro scheletro al suo posto.

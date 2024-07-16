@@ -1,0 +1,52 @@
+Scenario
+Miglia e chilometri sono unità di lunghezza o distanza.
+
+Tenendo presente che 1un miglio equivale approssimativamente a 1.61chilometri, 
+completa il programma nell'editor in modo che converta:
+miglia in chilometri;
+chilometri in miglia.
+Non cambiare nulla nel codice esistente. 
+Scrivi il tuo codice nei punti indicati da ###. 
+Testa il tuo programma con i dati che abbiamo fornito nel codice sorgente.
+
+Prestate particolare attenzione a ciò che avviene all'interno della print() funzione. 
+Analizzate come forniamo più argomenti alla funzione e come forniamo in output i dati attesi.
+Si noti che alcuni degli argomenti all'interno della print() funzione sono stringhe 
+(ad esempio, "miles is", mentre altri sono variabili (ad esempio, miles).
+
+Consiglio  
+C'è un'altra cosa interessante che sta succedendo lì. 
+Riesci a vedere un'altra funzione all'interno della print() funzione? 
+È la round()funzione. 
+Il suo compito è arrotondare il risultato in uscita al numero di cifre decimali specificato 
+tra parentesi e restituire un float 
+(all'interno della round()funzione puoi trovare il nome della variabile, 
+una virgola e il numero di cifre decimali a cui puntiamo). 
+Parleremo di funzioni molto presto, quindi non preoccuparti che tutto potrebbe non essere 
+ancora del tutto chiaro. Vogliamo solo accendere la tua curiosità.
+
+Dopo aver completato il laboratorio, apri Sandbox e fai altri esperimenti. 
+Prova a scrivere diversi convertitori, ad esempio un convertitore da USD a EUR, 
+un convertitore di temperatura, ecc. 
+‒ lascia volare la tua immaginazione! 
+Prova a generare i risultati combinando stringhe e variabili. 
+Prova a usare e sperimentare con la round()funzione per arrotondare i 
+risultati a una, due o tre cifre decimali. Guarda cosa succede se non fornisci alcun numero di cifre. 
+Ricordati di testare i tuoi programmi.
+
+Sperimenta, trai conclusioni e impara. Sii curioso.
+
+output
+
+7.38 miles is 11.88 kilometers
+12.25 kilometers is 7.61 miles
+
+dati iniziali:
+kilometers = 12.25
+miles = 7.38
+
+miles_to_kilometers = ###
+kilometers_to_miles = ###
+
+print(miles, "miles is", round(miles_to_kilometers, 2), "kilometers")
+print(kilometers, "kilometers is", round(kilometers_to_miles, 2), "miles")

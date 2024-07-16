@@ -1,0 +1,35 @@
+Scenario
+
+Ascoltate questa storia: un bambino e suo padre, un programmatore informatico, stanno giocando con 
+blocchi di legno. Stanno costruendo una piramide.
+La loro piramide è un po' strana, perché in realtà è un muro a forma di piramide, è piatto. 
+La piramide è impilata secondo un semplice principio: 
+ogni strato inferiore contiene un blocco in più rispetto allo strato superiore.
+
+La figura illustra la regola utilizzata dai costruttori:
+altezza: 3
+Blocchi: 6
+    |
+    ||
+    |||
+
+
+Il tuo compito è scrivere un programma che legga il numero di blocchi a disposizione dei costruttori e 
+fornisca in output l'altezza della piramide che può essere costruita utilizzando tali blocchi.
+Nota: l'altezza è misurata in base al numero di strati completamente completati : 
+se i costruttori non hanno un numero sufficiente di blocchi e non riescono 
+a completare lo strato successivo, terminano immediatamente il loro lavoro.
+
+Prova il tuo codice utilizzando i dati che ti abbiamo fornito.
+
+Dati test:
+input      outout
+6          L'altezza della piramide è: 3
+
+20         L'altezza della piramide è: 5
+
+
+1000       L'altezza della piramide è: 44
+
+
+2          L'altezza della piramide è: 1

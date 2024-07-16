@@ -1,0 +1,36 @@
+Scenario
+
+Il tuo compito è scrivere e testare una funzione che accetta due argomenti (un anno e un mese) e 
+restituisce il numero di giorni per la coppia anno-mese data 
+(mentre solo febbraio è sensibile al'anno valore, la tua funzione dovrebbe essere universale).
+La parte iniziale della funzione è pronta. Ora, convinci la funzione a restituire None 
+se le sue argomentazioni non hanno senso.
+Naturalmente, puoi (e dovresti) usare la funzione scritta e testata in precedenza (LAB 4.3.1.6). 
+Potrebbe essere molto utile. Ti incoraggiamo a usare un elenco riempito con le lunghezze dei mesi. 
+Puoi crearlo all'interno della funzione: questo trucco accorcerà notevolmente il codice.
+Abbiamo preparato un codice di test. Espandilo per includere più casi di test.
+
+Codice iniziale:
+
+def is_year_leap(year):
+    #
+    # Your code from the previous LAB.
+    #
+
+def days_in_month(year, month):
+    #
+    # Write your new code here.
+    #
+
+test_years = [1900, 2000, 2016, 1987]
+test_months = [2, 2, 1, 11]
+test_results = [28, 29, 31, 30]
+for i in range(len(test_years)):
+    yr = test_years[i]
+    mo = test_months[i]
+    print(yr, mo, "->", end="")
+    result = days_in_month(yr, mo)
+    if result == test_results[i]:
+        print("OK")
+    else:
+        print("Failed")

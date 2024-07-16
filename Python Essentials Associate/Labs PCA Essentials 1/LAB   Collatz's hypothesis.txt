@@ -1,0 +1,114 @@
+Scenario
+
+Nel 1937, un matematico tedesco di nome Lothar Collatz formulò un'ipotesi intrigante 
+(ancora indimostrata) che può essere descritta nel modo seguente:
+
+prendi un numero intero non negativo e non nullo e dagli un nomec0;
+se è pari, valuta una nuovac0COMEc0 ÷ 2;
+altrimenti, se è strano, valuta un nuovoc0COME3 × c0 + 1;
+Sec0 ≠ 1, tornare al punto 2.
+L'ipotesi afferma che indipendentemente dal valore iniziale dic0, andrà sempre a 1.
+
+Naturalmente, è un compito estremamente complesso usare un computer per dimostrare l'ipotesi 
+per qualsiasi numero naturale (potrebbe anche richiedere l'intelligenza artificiale), 
+ma puoi usare Python per controllare alcuni numeri individuali. 
+Forse troverai anche quello che confuterebbe l'ipotesi.
+Scrivi un programma che legga un numero naturale ed esegua i passaggi precedenti finché c0
+rimane diverso da 1. 
+Vogliamo anche che tu conti i passaggi necessari per raggiungere l'obiettivo. 
+Il tuo codice dovrebbe restituire tutti i valori intermedi dic0, pure.
+
+Suggerimento: la parte più importante del problema è come trasformare l'idea di Collatz in 
+un while loop: questa è la chiave del successo.
+
+Prova il tuo codice utilizzando i dati che ti abbiamo fornito.
+
+Dati test:
+input     output
+15        46
+          46
+          70
+	  35
+	  106
+	  53
+	  160
+	  80
+	  40
+ 	  20
+	  10
+	  5
+	  16
+	  8
+	  4
+	  2
+	  1
+	  steps = 17
+
+16        8
+	  4
+	  2
+	  1
+	  steps = 4
+
+1023      3070
+	  1535
+	  4606
+	  2303
+	  6910
+	  3455
+	  10366
+	  5183
+	  15550
+	  7775
+	  23326
+	  11663
+	  34990
+	  17495
+	  52486
+	  26243
+	  78730
+	  39365
+	  118096
+	  59048
+	  29524
+	  14762
+	  7381
+	  22144
+	  11072
+	  5536
+	  2768
+ 	  1384
+	  692
+	  346
+	  173
+	  173
+	  260
+	  130
+	  65
+  	  196
+	  98
+	  49
+	  148
+	  74
+	  37
+	  37
+	  56
+	  28
+	  14
+	  7
+	  22
+	  11
+	  34
+	  17
+	  52
+	  26
+	  13
+	  40
+	  20
+	  10
+	  5
+	  16
+	  8
+	  4
+	  2
+	  steps = 62

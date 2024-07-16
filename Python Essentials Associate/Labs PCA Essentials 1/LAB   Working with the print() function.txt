@@ -1,0 +1,14 @@
+Scenario
+
+Il print()comando, che è una delle direttive più semplici in Python, stampa semplicemente una riga 
+sullo schermo.
+Nel tuo primo laboratorio:
+Usa la print()funzione per stampare la riga Hello, Python! sullo schermo. 
+Usa le virgolette doppie attorno alla stringa.
+Dopo aver fatto ciò, utilizza print()nuovamente la funzione, ma questa volta stampa il tuo nome.
+Rimuovi le virgolette doppie ed esegui il tuo codice. 
+Guarda la reazione di Python. Che tipo di errore viene generato?
+Quindi, rimuovi le parentesi, rimetti le virgolette doppie ed esegui di nuovo il tuo codice. 
+Che tipo di errore viene generato questa volta?
+Sperimenta il più possibile. Sostituisci le virgolette doppie con virgolette singole, 
+usa più print()funzioni sulla stessa riga e poi su righe diverse. Guarda cosa succede.

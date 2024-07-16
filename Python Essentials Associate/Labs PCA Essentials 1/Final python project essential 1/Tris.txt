@@ -1,0 +1,37 @@
+Scenario
+
+Il tuo compito è scrivere un semplice programma che finge di giocare a tris con l'utente . Per semplificarti il ​​tutto, abbiamo deciso di semplificare il gioco. Ecco le nostre ipotesi:
+
+il computer (cioè il tuo programma) dovrebbe riprodurre il gioco utilizzando'X'S;
+l'utente (ad esempio, tu) dovrebbe giocare al gioco usando"O"S;
+la prima mossa spetta al computer, che mette sempre la prima'X'al centro della tavola;
+tutti i quadrati sono numerati riga per riga a partire da1(vedere la sessione di esempio qui sotto per riferimento)
+l'utente inserisce la sua mossa inserendo il numero della casella che sceglie − il numero deve essere valido, cioè deve essere un numero intero, deve essere maggiore di0e meno di10e non può puntare a un campo già occupato;
+il programma controlla se il gioco è finito: ci sono quattro possibili verdetti: il gioco deve continuare, il gioco finisce con un pareggio, vinci tu o vince il computer;
+il computer risponde con la sua mossa e il controllo viene ripetuto;
+non implementare alcuna forma di intelligenza artificiale: una scelta casuale del campo effettuata dal computer è sufficiente per il gioco.
+
+Codice iniziale:
+
+def display_board(board):
+    # The function accepts one parameter containing the board's current status
+    # and prints it out to the console.
+
+
+def enter_move(board):
+    # The function accepts the board's current status, asks the user about their move, 
+    # checks the input, and updates the board according to the user's decision.
+
+
+def make_list_of_free_fields(board):
+    # The function browses the board and builds a list of all the free squares; 
+    # the list consists of tuples, while each tuple is a pair of row and column numbers.
+
+
+def victory_for(board, sign):
+    # The function analyzes the board's status in order to check if 
+    # the player using 'O's or 'X's has won the game
+
+
+def draw_move(board):
+    # The function draws the computer's move and updates the board.

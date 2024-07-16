@@ -1,0 +1,19 @@
+Scenario
+
+Dai un'occhiata al codice nell'editor: legge un float valore, 
+lo inserisce in una variabile denominata x e stampa il valore di una variabile denominata y. 
+Il tuo compito è completare il codice per valutare la seguente espressione:
+3x 3 - 2x 2 + 3x - 1
+
+Il risultato dovrebbe essere assegnato a y.
+Ricorda che la notazione algebrica classica tende a omettere l'operatore di moltiplicazione: 
+devi usarlo esplicitamente. Nota come cambiamo il tipo di dati per assicurarci che xsia di tipo float.
+Mantieni il tuo codice pulito e leggibile e testalo usando i dati che abbiamo fornito, 
+assegnandoli ogni volta alla x variabile (codificandoli in modo rigido). 
+Non scoraggiarti per eventuali fallimenti iniziali. Sii persistente e curioso.
+
+
+input              outut
+x = 0              y = -1.0
+x = 1              y = 3.0
+x = -1             y = -9.0

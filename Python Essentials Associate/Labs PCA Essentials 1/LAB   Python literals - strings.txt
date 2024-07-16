@@ -1,0 +1,10 @@
+Scenario
+
+Scrivi un pezzo di codice di una riga, utilizzando il print() funzione, nonché i caratteri di
+nuova riga ed escape, per ottenere il risultato previsto visualizzato su tre righe.
+
+
+output
+"I'm"
+""learning""
+"""Python"""

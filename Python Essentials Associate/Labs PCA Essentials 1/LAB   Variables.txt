@@ -1,0 +1,17 @@
+Scenario
+
+Ecco un breve racconto:
+C'era una volta ad Appleland, John aveva tre mele, Mary cinque mele e Adamo sei mele. 
+Erano tutti molto felici e vissero a lungo. Fine della storia.
+
+Il tuo compito è:
+creare le variabili: john, mary, e adam;
+assegnare valori alle variabili. I valori devono essere uguali ai numeri di frutta posseduti 
+rispettivamente da John, Mary e Adam; dopo aver memorizzato i numeri nelle variabili, 
+stampare le variabili su una riga e separarle ciascuna con una virgola;
+ora crea una nuova variabile denominata total_applesuguale alla somma delle tre variabili precedenti.
+stampa il valore memorizzato nella total_applesconsole;
+sperimenta con il tuo codice : crea nuove variabili, assegna loro valori diversi ed esegui 
+su di esse varie operazioni aritmetiche (ad esempio, +, -, *, /, //, ecc.). 
+Prova a stampare una stringa e un numero intero insieme sulla stessa riga, ad esempio, 
+"Total number of apples:"e total_apples.

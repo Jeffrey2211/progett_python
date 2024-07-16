@@ -1,0 +1,19 @@
+Scenario
+
+Ti incoraggiamo vivamente a giocare con il codice che abbiamo scritto per te e ad apportare alcune 
+modifiche (forse anche distruttive). Sentiti libero di modificare qualsiasi parte del codice, 
+ma c'è una condizione: impara dai tuoi errori e trai le tue conclusioni.
+
+Prova a:
+ridurre al minimo il numero di print()invocazioni di funzione inserendo la \nsequenza nelle stringhe;
+rendi la freccia due volte più grande (ma mantieni le proporzioni)
+duplica la freccia, posizionando entrambe le frecce una accanto all'altra; nota: 
+una stringa può essere moltiplicata utilizzando 
+il seguente trucco: "string" * 2produrrà "stringstring"(ne parleremo più avanti)
+rimuovi tutte le virgolette e osserva attentamente la risposta di Python; 
+fai attenzione al punto in cui Python vede un errore: è questo il punto in cui si trova realmente 
+l'errore?
+fai lo stesso con alcune parentesi;
+trasformare una qualsiasi delle printparole in qualcos'altro, che differisca solo per il caso 
+(ad esempio, Print) ‒ cosa succede ora?
+sostituisci alcune virgolette con gli apostrofi; osserva attentamente cosa succede.

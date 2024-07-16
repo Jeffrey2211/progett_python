@@ -1,0 +1,30 @@
+Scenario
+
+Il risultato dovrebbe essere assegnato a e. 
+Fai attenzione: osserva gli operatori e tieni a mente le loro priorità. 
+Non esitare a usare tutte le parentesi di cui hai bisogno.
+
+Puoi usare variabili aggiuntive per accorciare l'espressione (ma non è necessario). 
+Testa attentamente il tuo codice.
+
+input                output
+
+12                   13:16
+17
+59
+
+23                   10:40
+58
+642
+
+0                    1:0
+1
+2939
+
+Codice iniziale:
+
+hour = int(input("Starting time (hours): "))
+mins = int(input("Starting time (minutes): "))
+dura = int(input("Event duration (minutes): "))
+
+# Write your code here.

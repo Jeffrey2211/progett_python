@@ -1,0 +1,11 @@
+Scenario
+L'istruzione break viene utilizzata per uscire/terminare un ciclo.
+
+Progetta un programma che utilizzi un ciclo while e chieda continuamente 
+all'utente di inserire una parola a meno che l'utente non inserisca "chupacabra" 
+come parola di uscita segreta, nel qual caso verrà visualizzato il messaggio 
+"Sei uscito con successo dal ciclo". dovrebbe essere stampato sullo schermo e 
+il ciclo dovrebbe terminare.
+
+Non stampare nessuna delle parole inserite dall'utente. 
+Utilizza il concetto di esecuzione condizionale e l'istruzione break.

@@ -1,0 +1,37 @@
+Scenario
+L'istruzione continue viene utilizzata per saltare il blocco corrente e passare all'iterazione 
+successiva, senza eseguire le istruzioni all'interno del ciclo.
+
+Può essere utilizzato sia con i cicli while che con quelli for.
+
+Il tuo compito qui è molto speciale: devi progettare un mangiatore di vocali! 
+Scrivere un programma che utilizzi:
+
+un ciclo for;
+il concetto di esecuzione condizionale (if-elif-else)
+l'istruzione continua.
+Il tuo programma deve:
+
+chiedere all'utente di inserire una parola;
+utilizzare user_word = user_word.upper() 
+per convertire in maiuscolo la parola inserita dall'utente; parleremo molto presto 
+dei metodi stringa e del metodo upper() – non preoccuparti;
+utilizzare l'esecuzione condizionale e l'istruzione continue per "mangiare" le seguenti 
+vocali A, E, I, O, U dalla parola immessa;
+stampa le lettere non consumate sullo schermo, ciascuna su una riga separata.
+Metti alla prova il tuo programma con i dati che ti abbiamo fornito:
+
+Input            output
+Gregory            G
+                   R
+                   G
+                   R
+                   Y
+
+abstemious         B
+                   S
+                   T
+                   M
+                   S
+IOUEA
+

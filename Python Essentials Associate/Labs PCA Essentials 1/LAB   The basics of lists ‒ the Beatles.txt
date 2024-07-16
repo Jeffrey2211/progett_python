@@ -1,0 +1,25 @@
+Scenario
+
+I Beatles sono stati uno dei gruppi musicali più popolari degli anni '60 e la band con 
+il maggior numero di vendite nella storia. Alcune persone li considerano il gruppo più influente 
+dell'era rock. Infatti, sono stati inclusi nella compilation della rivista Time delle 100 persone 
+più influenti del XX secolo.
+La band subì molti cambi di formazione, culminati nel 1962 con 
+la formazione di John Lennon, Paul McCartney, George Harrison e Richard Starkey 
+(meglio conosciuto come Ringo Starr).
+
+
+Scrivi un programma che rifletta questi cambiamenti e ti permetta di esercitarti con 
+il concetto di liste. Il tuo compito è:
+
+passaggio 1: creare un elenco vuoto denominatoscarafaggi;
+passaggio 2: utilizzare ilaggiungere()metodo per aggiungere i seguenti membri della band all'elenco:
+John Lennon,Paul McCartney, EGeorge Harrison;
+passaggio 3: utilizzare ilperciclo e il .append() metodo per chiedere all'utente di aggiungere i 
+seguenti membri della band all'elenco:
+Stu Sutcliffe, EPete il migliore;
+passaggio 4: utilizzare il "del" per rimuovere
+Stu SutcliffeEPete il miglioredalla lista;
+passaggio 5: utilizzare .insert() metodo per aggiungereRingo Starrall'inizio della lista.
+A proposito, sei un fan dei Beatles? 
+(I Beatles sono una delle band preferite di Greg. Ma aspetta...chi è Greg...?)

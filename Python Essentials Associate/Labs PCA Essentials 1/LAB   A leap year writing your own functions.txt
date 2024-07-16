@@ -1,0 +1,26 @@
+Scenario
+
+Il tuo compito è scrivere e testare una funzione che accetta un argomento (un anno) e restituisce 
+TRUE se l'anno è bisestile , o False altrimenti.
+Il seme della funzione è già mostrato nel codice scheletro nell'editor.
+Nota: abbiamo anche preparato un breve codice di test che puoi utilizzare per testare la tua funzione.
+Il codice usa due liste, una con i dati del test e l'altra contenente i risultati attesi. 
+Il codice ti dirà se uno dei tuoi risultati non è valido.
+
+Codice di partenza:
+
+def is_year_leap(year):
+    #
+    #write your code
+    #
+
+test_data = [1900, 2000, 2016, 1987]
+test_results = [False, True, True, False]
+for i in range(len(test_data)):
+    yr = test_data[i]
+    print(yr,"->",end="")
+    result = is_year_leap(yr)
+    if result == test_results[i]:
+        print("OK")
+    else:
+        print("Failed")

@@ -1,0 +1,37 @@
+Scenario
+Il tuo compito è completare il codice per valutare la seguente espressione:
+
+              1
+        ---------
+              1
+        x + -----
+               1
+          x + ---
+                1
+            x + -
+                x
+
+
+Il risultato dovrebbe essere assegnato ae. Fai attenzione: osserva gli operatori e tieni a mente le loro priorità. 
+Non esitare a usare tutte le parentesi di cui hai bisogno.
+
+Puoi usare variabili aggiuntive per accorciare l'espressione (ma non è necessario). 
+Testa attentamente il tuo codice.
+
+input       output
+
+1           y = 0.6000000000000001
+
+10          y = 0.09901951266867294
+
+100         y = 0.009999000199950014
+
+-5          y = -0.19258202567760344
+
+Codice iniziale:
+
+x = float(input("Enter value for x: "))
+
+# Write your code here.
+
+print("y =", y)

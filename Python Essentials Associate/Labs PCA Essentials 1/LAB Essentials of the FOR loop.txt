@@ -1,0 +1,32 @@
+Scenario
+Sai cos'è il Mississippi? Bene, è il nome di uno degli stati e dei fiumi degli Stati Uniti. 
+Il fiume Mississippi è lungo circa 2.340 miglia, il che lo rende il secondo fiume più lungo 
+degli Stati Uniti (il più lungo è il fiume Missouri). È così lungo che una singola goccia d'acqua 
+impiega 90 giorni per percorrere tutta la sua lunghezza!
+
+La parola Mississippi è usata anche per uno scopo leggermente diverso: contare il Mississippi.
+
+Se non hai familiarità con la frase, siamo qui per spiegarti cosa significa: serve per contare i 
+secondi.
+
+L'idea alla base è che aggiungere la parola Mississippi a un numero quando si contano i secondi 
+ad alta voce li fa sembrare più vicini al tempo dell'orologio, 
+e quindi "un Mississippi, due Mississippi, tre Mississippi" richiederà circa tre secondi effettivi! 
+Viene spesso utilizzato dai bambini che giocano a nascondino per assicurarsi che chi cerca faccia un 
+conteggio onesto.
+
+Il tuo compito qui è molto semplice: scrivi un programma che usi un ciclo for per 
+"contare il Mississippi" fino a cinque. Dopo aver contato fino a cinque, 
+il programma dovrebbe stampare sullo schermo il messaggio finale "Pronto o no, sto arrivando!"
+
+Utilizza lo scheletro che abbiamo fornito nell'editor.
+
+   INFORMAZIONI AGGIUNTIVE  
+Tieni presente che il codice nell'editor contiene due elementi che potrebbero non esserti 
+completamente chiari in questo momento: l'istruzione import time e il metodo sleep(). 
+Ne parleremo presto.
+
+Per il momento, vorremmo solo farti sapere che abbiamo importato il modulo time e 
+utilizzato il metodo sleep() per sospendere per un secondo l'esecuzione di ogni successiva 
+funzione print() all'interno del ciclo for, in modo che il il messaggio inviato alla console 
+assomiglia a un conteggio effettivo. Non preoccuparti: presto imparerai di più su moduli e metodi.

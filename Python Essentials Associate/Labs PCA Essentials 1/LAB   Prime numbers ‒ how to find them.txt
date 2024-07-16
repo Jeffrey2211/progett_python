@@ -1,0 +1,35 @@
+Scenario
+
+Un numero naturale è primo se è maggiore di 1 e non ha divisori diversi da 1 e da se stesso.
+Complicato? Per niente. Ad esempio, 8 non è un numero primo, perché puoi dividerlo per 2 e 4 
+(non possiamo usare divisori uguali a 1 e 8, perché la definizione lo proibisce).
+D'altra parte, 7 è un numero primo, poiché non riusciamo a trovare alcun divisore legale per esso.
+Il tuo compito è scrivere una funzione che verifichi se un numero è primo oppure no.
+
+La funzione:
+è chiamato is_prime;
+accetta un argomento (il valore da controllare)
+ritorna TRUE se l'argomento è un numero primo, e False altrimenti.
+Suggerimento: prova a dividere l'argomento per tutti i valori successivi (a partire da 2) e controlla il resto: se è zero, il tuo numero non può essere primo; pensa attentamente a quando interrompere il processo.
+
+Se hai bisogno di conoscere la radice quadrata di un valore qualsiasi, puoi utilizzare**operatore. Ricorda: la radice quadrata di x è uguale a x 0,5
+
+Completa il codice nell'editor.
+
+Esegui il tuo codice e controlla se il tuo output è uguale al nostro.
+
+output  
+
+2 3 5 7 11 13 17 19
+
+Codice iniziale:
+
+def is_prime(num):
+    #
+    # Write your code here.
+    #
+
+for i in range(1, 20):
+    if is_prime(i + 1):
+        print(i + 1, end=" ")
+print()

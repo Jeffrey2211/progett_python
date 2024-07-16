@@ -1,0 +1,23 @@
+Scenario
+
+Scenario
+Il tuo compito è completare 
+il codice per valutare i risultati di quattro operazioni aritmetiche di base.
+I risultati devono essere stampati sulla console.
+Potresti non essere in grado di proteggere il codice da un utente che vuole dividere per zero. 
+Va bene, non preoccuparti per ora.
+Metti alla prova il tuo codice: produce i risultati attesi?
+Non vi mostreremo alcun dato di prova: sarebbe troppo semplicistico.
+
+Codice
+
+# input a float value for variable a here
+# input a float value for variable b here
+
+# output the result of addition here
+# output the result of subtraction here
+# output the result of multiplication here
+# output the result of division here
+
+print("\nThat's all, folks!")
+

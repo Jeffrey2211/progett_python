@@ -1,0 +1,10 @@
+Scenario
+C'era una volta un cappello. Il cappello non conteneva alcun coniglio, 
+ma una lista di cinque numeri:1,2,3,4, E5.
+
+Il tuo compito è:
+
+scrivere una riga di codice che richieda all'utente di sostituire il numero centrale 
+nell'elenco con un numero intero immesso dall'utente (Passaggio 1)
+scrivere una riga di codice che rimuove l'ultimo elemento dall'elenco (Passaggio 2)
+scrivere una riga di codice che stampi la lunghezza dell'elenco esistente (Passaggio 3).

@@ -1,0 +1,46 @@
+Scenario
+
+Il consumo di carburante di un'auto può essere espresso in molti modi diversi. 
+Ad esempio, in Europa, viene mostrato come la quantità di carburante consumata ogni 100 chilometri.
+Negli Stati Uniti viene indicato come il numero di miglia percorse da un'auto utilizzando un gallone 
+di carburante.
+Il tuo compito è scrivere una coppia di funzioni che convertono l/100km in mpg e viceversa.
+
+Le funzioni:
+sono nominati liters_100km_to_miles_gallon e miles_gallon_to_liters_100km rispettivamente;
+prendono un argomento (il valore corrispondente ai loro nomi)
+Completa il codice nell'editor ed eseguilo per verificare se il tuo output è uguale al nostro.
+
+Ecco alcune informazioni utili:
+
+1 miglio americano = 1609,344 metri;
+1 gallone americano = 3,785411784 litri.
+
+output
+
+60.31143162393162
+31.36194444444444
+23.52145833333333
+3.9007393587617467
+7.490910297239916
+10.009131205673757
+
+Codice iniziale:
+
+def liters_100km_to_miles_gallon(liters):
+    #
+    # Write your code here.
+    #
+
+def miles_gallon_to_liters_100km(miles):
+    #
+    # Write your code here.
+    #
+
+print(liters_100km_to_miles_gallon(3.9))
+print(liters_100km_to_miles_gallon(7.5))
+print(liters_100km_to_miles_gallon(10.))
+print(miles_gallon_to_liters_100km(60.3))
+print(miles_gallon_to_liters_100km(31.4))
+print(miles_gallon_to_liters_100km(23.5))
+

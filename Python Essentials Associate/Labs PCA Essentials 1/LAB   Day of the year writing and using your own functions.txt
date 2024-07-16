@@ -1,0 +1,25 @@
+Scenario 
+
+Il tuo compito è scrivere e testare una funzione che accetta tre argomenti 
+(un anno, un mese e un giorno del mese) e restituisce il giorno corrispondente dell'anno, 
+oppure restituisceNessunose uno qualsiasi degli argomenti non è valido.
+Utilizzare le funzioni scritte e testate in precedenza. Aggiungere i propri casi di test al codice.
+
+Codice iniziale:
+
+def is_year_leap(year):
+    #
+    # Your code from the previous LAB.
+    #
+
+def days_in_month(year, month):
+    #
+    # Your code from the previous lab.
+    #
+
+def day_of_year(year, month, day):
+    #
+    # Write your new code here.
+    #
+
+print(day_of_year(2000, 12, 31))

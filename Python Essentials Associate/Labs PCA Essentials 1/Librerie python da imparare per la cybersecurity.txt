@@ -1,0 +1,124 @@
+1. NLTK (Natural Language Toolkit)
+Principali funzionalità:
+tokenize:
+word_tokenize(text): Divide un testo in parole.
+sent_tokenize(text): Divide un testo in frasi.
+stem:
+PorterStemmer().stem(word): Riduce una parola alla sua radice.
+LancasterStemmer().stem(word): Un altro metodo di stemming.
+tag:
+pos_tag(tokens): Identifica le parti del discorso per i token.
+chunk:
+ne_chunk(tagged_tokens): Riconoscimento di entità nominate.
+2. NumPy
+Principali funzionalità:
+Array e operazioni:
+array([elements]): Crea un array.
+mean(array): Calcola la media.
+std(array): Calcola la deviazione standard.
+sum(array): Calcola la somma.
+dot(array1, array2): Calcola il prodotto scalare.
+Generazione di numeri casuali:
+random.rand(dimensioni): Genera un array di numeri casuali.
+3. Pandas
+Principali funzionalità:
+Creazione e manipolazione dei dati:
+DataFrame(data): Crea un DataFrame.
+read_csv('file.csv'): Legge un file CSV in un DataFrame.
+head(n): Visualizza le prime n righe.
+describe(): Fornisce statistiche riassuntive.
+groupby(column): Raggruppa i dati per una colonna.
+merge(df1, df2, on='column'): Unisce due DataFrame.
+4. Scikit-learn
+Principali funzionalità:
+Preprocessing:
+StandardScaler(): Standardizza le caratteristiche.
+train_test_split(data, labels, test_size=0.2): Divide i dati in set di addestramento e test.
+Algoritmi di Machine Learning:
+RandomForestClassifier(): Algoritmo di classificazione.
+SVC(): Support Vector Classifier.
+Valutazione:
+classification_report(true_labels, predicted_labels): Report delle metriche di classificazione.
+5. Nmap (nmap-python)
+Principali funzionalità:
+Scansione e informazioni:
+PortScanner(): Crea un'istanza del port scanner.
+scan(target, arguments): Esegue una scansione.
+all_hosts(): Restituisce tutti gli host rilevati.
+scaninfo(): Fornisce informazioni sulla scansione.
+6. Twisted
+Principali funzionalità:
+Networking asincrono:
+internet.reactor: Gestore degli eventi principali.
+web.server.Site(resource): Crea un server web.
+internet.protocol.Protocol: Classe base per la creazione di protocolli di rete.
+internet.defer.Deferred(): Gestione delle operazioni asincrone.
+7. Scapy
+Principali funzionalità:
+Manipolazione e sniffing dei pacchetti:
+send(packet): Invia pacchetti.
+sniff(filter, count, prn): Sniffa pacchetti di rete.
+srp(packet, timeout): Invia e riceve pacchetti Ethernet.
+IP(): Crea un pacchetto IP.
+TCP(): Crea un pacchetto TCP.
+ARP(): Crea un pacchetto ARP.
+8. BeautifulSoup
+Principali funzionalità:
+Parsing HTML/XML:
+BeautifulSoup(html, 'parser'): Crea un oggetto BeautifulSoup.
+find(tag, attributes): Trova il primo tag che corrisponde ai criteri.
+find_all(tag, attributes): Trova tutti i tag che corrispondono ai criteri.
+get_text(): Estrae tutto il testo da un tag.
+select(css_selector): Seleziona elementi usando i selettori CSS.
+9. Cryptography
+Principali funzionalità:
+Crittografia simmetrica:
+Fernet.generate_key(): Genera una chiave.
+Fernet(key).encrypt(message): Cripta un messaggio.
+Fernet(key).decrypt(token): Decripta un messaggio.
+Crittografia asimmetrica e hashing:
+hazmat.primitives.asymmetric.rsa.generate_private_key(): Genera una chiave privata RSA.
+hazmat.primitives.asymmetric.rsa.encrypt(public_key, message): Cripta con una chiave pubblica RSA.
+hazmat.primitives.hashes.SHA256(): Algoritmo di hashing SHA-256.
+10. Yara
+Principali funzionalità:
+Pattern matching:
+compile(filepath): Compila una o più regole Yara da un file.
+Rules.match(filepath): Esegue le regole su un file.
+load(filepath): Carica regole precompilate da un file.
+11. Pymetasploit3
+Principali funzionalità:
+Interazione con Metasploit:
+MsfRpcClient(password): Connessione al server RPC di Metasploit.
+MsfRpcClient.modules: Accede ai moduli di Metasploit.
+MsfRpcClient.sessions.list: Elenca le sessioni di exploit.
+MsfRpcClient.exploits.use(name): Utilizza un exploit specifico.
+12. Mechanize
+Principali funzionalità:
+Automazione delle interazioni web:
+Browser(): Crea un oggetto browser.
+open(url): Apre una URL.
+select_form(nr=0): Seleziona un modulo per il submit.
+submit(): Invia un modulo.
+follow_link(text_regex="link_text"): Segue un link.
+13. Socket
+Principali funzionalità:
+Comunicazione di rete a basso livello:
+socket(family, type): Crea un nuovo socket.
+bind(address): Associa il socket a un indirizzo.
+listen(backlog): Ascolta le connessioni.
+accept(): Accetta una connessione.
+connect(address): Connette il socket a un indirizzo.
+send(data): Invia dati tramite il socket.
+recv(buffer_size): Riceve dati dal socket.
+14. Requests
+Principali funzionalità:
+HTTP requests:
+get(url, params, **kwargs): Esegue una richiesta GET.
+post(url, data, **kwargs): Esegue una richiesta POST.
+put(url, data, **kwargs): Esegue una richiesta PUT.
+delete(url, **kwargs): Esegue una richiesta DELETE.
+head(url, **kwargs): Esegue una richiesta HEAD.
+Gestione delle sessioni:
+Session(): Gestisce sessioni con cookie persistenti.
+session.get(url, **kwargs): Esegue una richiesta GET con una sessione.

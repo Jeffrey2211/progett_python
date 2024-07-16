@@ -1,0 +1,15 @@
+Scenario
+
+Modificare la prima riga di codice nell'editor, utilizzando il sep= e end= parole chiave, 
+per abbinare l'output previsto. Utilizzare i due print() funzioni nell'editor.
+Non cambiare nulla nel secondostampa()invocazione.
+
+Scheletro
+
+print("Programming","Essentials","in")
+print("Python")
+
+
+output
+
+Programming***Essentials***in...Python
